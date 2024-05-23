@@ -16,8 +16,8 @@ Installation
 
     sh
 
-git clone https://github.com/yourusername/visual-tracker-classifier.git
-cd visual-tracker-classifier
+    git clone https://github.com/yourusername/visual-tracker-classifier.git
+    cd visual-tracker-classifier
 
 Install the required dependencies:
 
