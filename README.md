@@ -21,7 +21,7 @@ cd visual-tracker-classifier
 
 Install the required dependencies:
 
-sh
+    sh
 
     pip install -r requirements.txt
 
@@ -35,16 +35,6 @@ Usage
 
     Ensure your webcam is connected, or modify the script to use a video file.
 
-Examples
 
-Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request with any improvements or bug fixes.
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-Contact
-
-For any questions or suggestions, feel free to reach out or open an issue on GitHub.
 
 Feel free to adjust the placeholders, such as yourusername and path_to_example_image_or_gif, to match your repository's details.
