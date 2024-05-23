@@ -8,7 +8,6 @@ Features
     Object Classification: Classify tracked objects into predefined categories using linear regression.
     Grayscale Conversion: Convert video frames to grayscale to simplify processing and improve performance.
     Edge Detection: Utilize edge detection techniques to enhance object recognition.
-    Bounding Box Display: Draw bounding boxes around detected objects for visual feedback.
 
 Installation
 
