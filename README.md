@@ -5,8 +5,11 @@ This project implements a Visual Tracker and Classifier leveraging linear regres
 Features
 
     Real-time Object Tracking: Efficiently track objects within video frames using a robust tracking algorithm.
+    
     Object Classification: Classify tracked objects into predefined categories using linear regression.
+    
     Grayscale Conversion: Convert video frames to grayscale to simplify processing and improve performance.
+    
     Edge Detection: Utilize edge detection techniques to enhance object recognition.
 
 Installation
